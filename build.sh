@@ -1,0 +1,1 @@
+docker build -t charliecalvert/elfa:v01 .
